@@ -22,5 +22,5 @@ Este repositório busca reunir e documentar os propostos em sala de aula, promov
 | 03            | Página de Receitas | `aside`, `ul`, `nav` (links âncora) | [Acessar Projeto ](https://maxsuelbruno.github.io/Projeto-Pagina-de-Receitas_DesenvolvimentoWeb/) |
 | 04            | Site Pessoal (Múltiplas Páginas) | `a` (links entre páginas), `nav` | [Acessar Projeto ](https://maxsuelbruno.github.io/Projeto-Site-Pessoal_DesenvolvimetoWeb/) |
 | 05            | Tabela de Notas | `table`, `thead`, `tbody`, `tfoot` | [Acessar Projeto ](https://maxsuelbruno.github.io/Projeto-Tabela-de-Notas_DesenvolvimetoWeb/) |
-| 06            | Roteiro de Viagem | `section`, `article` | [Acessar Projeto 06](https://maxsuelbruno.github.io/Projeto-Roteiro-de-Viagens_DesenvolvimetoWeb/) |
+| 06            | Roteiro de Viagem | `section`, `article` | [Acessar Projeto ](https://maxsuelbruno.github.io/Projeto-Roteiro-de-Viagens_DesenvolvimetoWeb/) |
 | 07            | Cadastro de Usuário | `form`, `input`, `label`, `select`, `textarea` | [Acessar Projeto ](https://maxsuelbruno.github.io/Projeto-Cadastro-de-Usuario_DesenvolvimetoWeb/) |
